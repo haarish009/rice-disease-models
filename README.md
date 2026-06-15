@@ -363,8 +363,8 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 📧 Contact
 
-- **Author**: Haarish S.
-- **Email**: haarish009@gmail.com
+- **Author**: Haarish S
+- **Email**: haarishsrinivasan2006@gmail.com
 - **GitHub**: [@haarish009](https://github.com/haarish009)
 
 ---
